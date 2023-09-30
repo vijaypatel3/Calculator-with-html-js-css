@@ -1,6 +1,6 @@
 # Calculator-with-html-js-css
-# it uses tailwind as css
-# in javascript (
+it uses tailwind as css
+in javascript (
 firstly it select all the element
 secondly it adds values to numbers and decimal
 then when any operation is performed it saves the method of operation in a variable
